@@ -1,0 +1,10 @@
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\obj\Debug\Asst4_MethodsValidation_CStorms.csprojAssemblyReference.cache
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\obj\Debug\Asst4_MethodsValidation_CStorms.frmPayCalculator.resources
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\obj\Debug\Asst4_MethodsValidation_CStorms.Properties.Resources.resources
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\obj\Debug\Asst4_MethodsValidation_CStorms.csproj.GenerateResource.cache
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\obj\Debug\Asst4_MethodsValidation_CStorms.csproj.CoreCompileInputs.cache
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\bin\Debug\Asst4_MethodsValidation_CStorms.exe.config
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\bin\Debug\Asst4_MethodsValidation_CStorms.exe
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\bin\Debug\Asst4_MethodsValidation_CStorms.pdb
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\obj\Debug\Asst4_MethodsValidation_CStorms.exe
+C:\C# 2015\Z_Exercies\Asst4_MethodsValidation_CStorms\Asst4_MethodsValidation_CStorms\obj\Debug\Asst4_MethodsValidation_CStorms.pdb
