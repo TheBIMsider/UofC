@@ -1,0 +1,10 @@
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\bin\Debug\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code.exe.config
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\bin\Debug\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code.exe
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\bin\Debug\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code.pdb
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\obj\Debug\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code.csprojAssemblyReference.cache
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\obj\Debug\FIRSTNAME_LASTNAME__Assignment_3__Debugging_Code.Properties.Resources.resources
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\obj\Debug\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code.csproj.GenerateResource.cache
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\obj\Debug\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code.csproj.CoreCompileInputs.cache
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\obj\Debug\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code.exe
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\obj\Debug\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code.pdb
+C:\Users\GregB\source\repos\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\FIRSTNAME_LASTNAME -Assignment 3- Debugging Code\obj\Debug\FIRSTNAME_LASTNAME__Assignment_3__Debugging_Code.frmGradePoint.resources
