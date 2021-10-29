@@ -1,5 +1,5 @@
 # UofC
-Class assignments from University of Calgary (U of C) 
+Class assignments from [University of Calgary](https://conted.ucalgary.ca/) (U of C) continuing education classes
 
 ## Classes
 
