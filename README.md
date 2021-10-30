@@ -12,3 +12,9 @@ This course is the first in a series of three computer programming courses that 
 * Assignment 4: Methods & Validation  
 * Assignment 5: Data Types - Arrays   
 
+#### Computer Programing Level 2 - [ICT 711](https://conted.ucalgary.ca/search/publicCourseSearchDetails.do?method=load&courseId=11822535) 
+This course is the second in a series of three computer programming courses that introduces students to the C# programming language, Visual Studio, the .NET framework, software development processes, and Agile methodologies.
+
+* Assignment 1: Rectangular Arrays / Text File Operations : Creating Controls Programmatically (John Conway’s Game of Life)  
+* Assignment 2: Classes (Multiple Classes, Class Composition) & Advanced GUI Programming (Employee Payroll Manager)   
+* Assignment 3: Classes; Inheritance, Polymorphism, Abstract Classes, Interfaces (Banking Application)   
